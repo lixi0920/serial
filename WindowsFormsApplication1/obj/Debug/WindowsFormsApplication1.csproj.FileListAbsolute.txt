@@ -1,0 +1,18 @@
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.serial.resources
+D:\visiostdio\Visio studio\vs2013\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.serial.resources
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lrq\Documents\Visual Studio 2013\Projects\com\serial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
